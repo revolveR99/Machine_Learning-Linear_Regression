@@ -16,9 +16,6 @@ First of the projects in the machine learning area at 42 network. Objective is t
 ## Scatter predicted price
 ![Screenshots](/pic/PredictGraph.png)
 
-## [Subject](SUBJECT.ft_linear_regression.en.pdf)
-
-
 ## [Linear Regression - Wiki](https://en.wikipedia.org/wiki/Linear_regression)
 
 ## Usage
